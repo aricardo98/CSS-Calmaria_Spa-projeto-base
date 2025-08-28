@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/22029569/README.md)
 ![Calmaria Spa](./assets/thumbnail.png)
 
 # Calmaria Spa
